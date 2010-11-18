@@ -1,11 +1,8 @@
 
- README
- rwatch
- 
  Created by awesomecode on 2010-11-18.
  Copyright 2010 awesomecode. 
  
  Requirements: mechanize, nokogiri, hirb
  
- Please use at your own risc. Do what you want with it, but do not blame me for ebay suing you for doing illegal things. 
+ Please use at your own risc. Do what you want with it, but do not blame me for ebay suing you for doing illegal things.
  This is a proof of concept, not a tested working example.
